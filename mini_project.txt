@@ -1,0 +1,16 @@
+Ce projet consiste à :
+1) L’installation du middleware Cloud Computing : OpenStack, en se basant sur une des
+méthodes présentées au cours. Une fois l’installation faites, tester toutes les fonctionnements du
+middleware.
+2) L’implémentation d’un IaaS basé sur le système Linux fourni avec OpenStack. Tester ce
+service.
+3) L’implémentation d’un SaaS de votre choix. Tester ce service.
+4) La réalisation d’un modèle sur le simulateur CloudSim décrivant l’architecture réalisée. Lancer
+les simulations et interpréter les résultats.
+Le rapport contenir des explications sur les éléments suivants :
+- Comparaison d’OpenStack aux autres middlewares Cloud Computing open source.
+- Les différentes phases de l’installation, en précisant les modules installés.
+- les différents tests effectués sur le fonctionnement de l’infrastructure Cloud Computing créée.
+- Une description du service IaaS créé, et les tests réalisés.
+- Une description du service SaaS créé, et les tests réalisés.
+- Une description des scénarios réalisés avec CloudSim.
